@@ -28,6 +28,10 @@ ls /
 想看看驱动目录下有什么， 
 ls /System/Library/Extensions 
 参数 -w 显示中文，-l 详细信息， -a 包括隐藏文件 
+
+ls 显示普通文件
+ls /显示的是FHS (Filesystem Hierarchy Standard)
+
 转换目录 
 cd 
 例：想到驱动目录下溜达一圈 
