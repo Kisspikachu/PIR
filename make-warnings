@@ -1,7 +1,0 @@
-libFedTimed.so.1.0.0：对‘typeinfo for RTI::Exception’未定义的引用
-collect2: error: ld returned 1 exit status
-libRTI/hla-1_3/CMakeFiles/TestFedTime.dir/build.make:100: recipe for target 'libRTI/hla-1_3/TestFedTime' failed
-make[2]: *** [libRTI/hla-1_3/TestFedTime] Error 1
-CMakeFiles/Makefile2:1596: recipe for target 'libRTI/hla-1_3/CMakeFiles/TestFedTime.dir/all' failed
-make[1]: *** [libRTI/hla-1_3/CMakeFiles/TestFedTime.dir/all] Error 2
-Makefile:160: recipe for target 'all' failed
